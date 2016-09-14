@@ -10,6 +10,8 @@
 import socket   #for sockets
 import sys  	#for exit
 
+# host info
+
 
 host = 'localhost'	# Symbolic name, meaning all available interfaces
 port = 8888 		# Arbitrary non-privileged port
