@@ -1,6 +1,4 @@
 
-print ("hello world")
-
 #=============================================
 #                Sockets
 #
@@ -11,6 +9,8 @@ print ("hello world")
  
 import socket   #for sockets
 import sys  	#for exit
+
+# host info
 
 
 host = 'localhost'	# Symbolic name, meaning all available interfaces
