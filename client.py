@@ -25,7 +25,7 @@ except socket.error:
     print ("Failed to create socket. Error code: " + str(msg[0]) + " , Error message : " + msg[1])
     sys.exit();
  
-print (" Client Socket is Created")
+print (" Client Socket is Created successfully")
 #-------------------------------------------------------------
 # get IP address of remote host and connect to its server 
 #-------------------------------------------------------------
